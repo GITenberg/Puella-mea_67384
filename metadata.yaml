@@ -1,0 +1,53 @@
+_repo: Puella-mea_67384
+_version: 0.0.1
+contributor:
+  artists:
+  - agent_name: Modigliani, Amedeo
+    gutenberg_agent_id: '54240'
+    url: http://www.gutenberg.org/2009/agents/54240
+  - agent_name: Roesch, Kurt
+    gutenberg_agent_id: '54241'
+    url: http://www.gutenberg.org/2009/agents/54241
+  - agent_name: Klee, Paul
+    gutenberg_agent_id: '54239'
+    url: http://www.gutenberg.org/2009/agents/54239
+  - agent_name: Picasso, Pablo
+    aliases:
+    - Ruys Picasso, Pablo
+    - Ruiz y Picasso, Pablo
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '49945'
+    url: http://www.gutenberg.org/2009/agents/49945
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Pablo_Picasso
+    - https://en.wikipedia.org/wiki/Pablo_Picasso
+creator:
+  author:
+    agent_name: Cummings, E. E. (Edward Estlin)
+    alias: Cummings, Edward Estlin
+    birthdate: 1894
+    deathdate: 1962
+    gutenberg_agent_id: '2755'
+    url: http://www.gutenberg.org/2009/agents/2755
+    wikipedia: https://en.wikipedia.org/wiki/E._E._Cummings
+description: ''
+gutenberg_issued: '2022-02-12'
+identifiers:
+  gutenberg: '67384'
+language: en
+pgterms:marc904: https://archive.org/details/puellamea0000cumm/page/n31/mode/2up
+pgterms:marc905: 20211009144210cummings
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, Linda Cantoni, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Golden Eagle Press,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Puella mea
+url: http://www.gutenberg.org/ebooks/67384
