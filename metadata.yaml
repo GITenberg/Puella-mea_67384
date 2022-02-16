@@ -22,6 +22,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Pablo_Picasso
     - https://en.wikipedia.org/wiki/Pablo_Picasso
+covers:
+- cover_type: archival
+  image_path: 67384-h/images/cover.jpg
 creator:
   author:
     agent_name: Cummings, E. E. (Edward Estlin)
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2755
     wikipedia: https://en.wikipedia.org/wiki/E._E._Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67384#Puella-mea
 gutenberg_issued: '2022-02-12'
 identifiers:
   gutenberg: '67384'
